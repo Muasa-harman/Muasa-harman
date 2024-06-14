@@ -3,6 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Profile...;Software+Engineer;Full-Stack+Web+Developer;Tutor;Coding+Enthusiast)](https://git.io/typing-svg)
 
 <!-- [![OOP badge]](https://github.com/Muasa-harman/Muasa-harman/blob/main/OOP%20badge%20Award.png)[![Algo_badge]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamation.com%2Fbig-data%2Fdata-structure%2F&psig=AOvVaw3yiWuZOxVsdWQ3SMmVwupp&ust=1718437859902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiAsYbO2oYDFQAAAAAdAAAAABAE) -->
+<img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
@@ -14,8 +15,7 @@
 
 - 💬 Ask me about **Any topic in Java, C# and Python and Javascript**
 
-- I’m currently open for freelance and full time Job opportunities, here is my resume and portfolio
-
+- I’m currently open for freelance and full time Job opportunities,
 - 📫 How to reach me **[Email](harman.muasa@gmail.com), [Whatsapp number](https://wa.me/+254784130692)**
 
 <h3 align="left">Connect with me:</h3>
