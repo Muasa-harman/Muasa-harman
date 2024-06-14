@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Full-Stack+Web+Developer;Tutor;Coffee+Enthusiast)](https://git.io/typing-svg)
 
-[![OOP badge]]("https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython3-object-oriented-programming%2F&psig=AOvVaw3q4wGv0mmFIySFt4LQwVWX&ust=1718437571320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCCzvnM2oYDFQAAAAAdAAAAABAE")[![Algo_badge]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamation.com%2Fbig-data%2Fdata-structure%2F&psig=AOvVaw3yiWuZOxVsdWQ3SMmVwupp&ust=1718437859902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiAsYbO2oYDFQAAAAAdAAAAABAE)
+[![OOP badge]](/OOP badge Award.png)[![Algo_badge]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamation.com%2Fbig-data%2Fdata-structure%2F&psig=AOvVaw3yiWuZOxVsdWQ3SMmVwupp&ust=1718437859902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiAsYbO2oYDFQAAAAAdAAAAABAE)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
