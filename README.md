@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fke.linkedin.com%2Fin%2Fharman-muasa-fullstackdev&psig=AOvVaw3zQHKfxsT7tOHe6kQe3bzX&ust=1718433993094000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi9-9K_2oYDFQAAAAAdAAAAABAE" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Typescript and Python**
+- 🌱 I’m currently working with **C#, Typescript and Python**
 
 - 👨‍💻 All of my projects are available at [onrender](https://myportfolioblogapp.onrender.com/)
 
