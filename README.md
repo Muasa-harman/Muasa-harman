@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Any topic in Java, C# and Python and Javascript**
 
+- I’m currently open for freelance and full time Job opportunities, here is my resume and portfolio
+
 - 📫 How to reach me **[Email](harman.muasa@gmail.com), [Whatsapp number](https://wa.me/+254784130692)**
 
 <h3 align="left">Connect with me:</h3>
