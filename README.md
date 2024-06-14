@@ -4,11 +4,10 @@
 
 [![OOP badge]]("https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython3-object-oriented-programming%2F&psig=AOvVaw3q4wGv0mmFIySFt4LQwVWX&ust=1718437571320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCCzvnM2oYDFQAAAAAdAAAAABAE")[![Algo_badge]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamation.com%2Fbig-data%2Fdata-structure%2F&psig=AOvVaw3yiWuZOxVsdWQ3SMmVwupp&ust=1718437859902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiAsYbO2oYDFQAAAAAdAAAAABAE)
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/" alt="innocentsax" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
 
-<p align="left"> <a href=""><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fke.linkedin.com%2Fin%2Fharman-muasa-fullstackdev&psig=AOvVaw3zQHKfxsT7tOHe6kQe3bzX&ust=1718433993094000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi9-9K_2oYDFQAAAAAdAAAAABAE" /></a> </p>
-https://github-profile-trophy.vercel.app/
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muasa-harman" alt="Muasa-harman" /></a> </p>
+
 - 🌱 I’m currently working with **C#, Typescript and Python**
 
 - 👨‍💻 All of my projects are available at [onrender](https://myportfolioblogapp.onrender.com/)
