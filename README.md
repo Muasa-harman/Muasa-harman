@@ -1,6 +1,6 @@
 # Hi,call me Harman | Muasa
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Full-Stack+Web+Developer;Tutor;Coding+Enthusiast)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Profile...;Software+Engineer;Full-Stack+Web+Developer;Tutor;Coding+Enthusiast)](https://git.io/typing-svg)
 
 <!-- [![OOP badge]](https://github.com/Muasa-harman/Muasa-harman/blob/main/OOP%20badge%20Award.png)[![Algo_badge]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamation.com%2Fbig-data%2Fdata-structure%2F&psig=AOvVaw3yiWuZOxVsdWQ3SMmVwupp&ust=1718437859902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiAsYbO2oYDFQAAAAAdAAAAABAE) -->
 
