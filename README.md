@@ -1,4 +1,4 @@
-                            # Hi,call me Harman or Muasa
+# Hi,call me Harman or Muasa
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Profile...;Software+Engineer;Full-Stack+Web+Developer;Tutor;Coding+Enthusiast)](https://git.io/typing-svg)
 
