@@ -15,16 +15,14 @@
 
 - 💬 Ask me about **Any topic in Java, C# and Python and Javascript**
 
-- I’m currently open for freelance and full time Job opportunities,
-
 ## 🌐: Contact
 
 You can reach me on these platforms.
 
-[![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord]
+<!-- [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord] -->
 
 - 📫 How to reach me **[Email](harman.muasa@gmail.com), [Whatsapp number](https://wa.me/+254784130692)**
-
+<h2>OR</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/MuasaMuasa" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
