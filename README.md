@@ -16,11 +16,18 @@
 - 💬 Ask me about **Any topic in Java, C# and Python and Javascript**
 
 - I’m currently open for freelance and full time Job opportunities,
+
+## 🌐: Contact
+
+You can reach me on these platforms.
+
+[![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord]
+
 - 📫 How to reach me **[Email](harman.muasa@gmail.com), [Whatsapp number](https://wa.me/+254784130692)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/MuasaMuasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
+<a href="https://x.com/MuasaMuasa" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harman-muasa-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udo-innocent-charles" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
 </p>
