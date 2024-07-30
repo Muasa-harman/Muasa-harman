@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muasa-harman" alt="Muasa-harman" /></a> </p>
 
-- 🌱 I’m currently working with **C#, Typescript and Python**
+- 🌱 I’m currently working with **C#, Typescript,Javascript and Python**
 
-- 👨‍💻 All of my projects are available at [onrender](https://myportfolioblogapp.onrender.com/)
+- 👨‍💻 All of my projects are available at [my blog application](https://myportfolioblogapp.onrender.com/)
 
 - 💬 Ask me about **Any topic in Java, C# and Python and Javascript**
 
