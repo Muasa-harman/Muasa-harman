@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [my blog application](https://myportfolioblogapp.onrender.com/)
 
-- 💬 Ask me about **Any topic in Java, C# and Python and Javascript**
+- 💬 Ask me about **Any topic in  C# and Python and Javascript**
 
 ## 🌐: Contact
 
