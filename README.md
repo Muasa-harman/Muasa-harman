@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muasa-harman" alt="Muasa-harman" /></a> </p>
 
-- 🌱 I’m currently working with **C#, Typescript,Javascript and Python**
+- 🌱 I’m currently working with Nodejs, Typescript,Javascript and Python**
 
 - 👨‍💻 All of my projects are available at [my blog application](https://myportfolioblogapp.onrender.com/)
 
