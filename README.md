@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Profile...❣;Software+Engineer;Full-Stack+Web+Developer;Tutor;Coding+Enthusiast)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=/Muasa-harman)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ======= -->
 
 <!-- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer with over 3 years of expertise in JavaScript;TypeScript,Node.js,C# and Python;as well as experience with both relational and non-relational databases;Full-Stack+Web+Developer;Tutor;Tech+Enthusiast)](https://git.io/typing-svg) -->
