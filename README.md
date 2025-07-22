@@ -26,7 +26,7 @@ You can reach me on these platforms.
 
 <!-- [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord] -->
 
-- 📫 How to reach me **[Email](harman.muasa@gmail.com), [Whatsapp number](https://wa.me/+254784130692)**
+- 📫 How to reach me **[Email](muasaharman196@gmail.com), [Whatsapp number](https://wa.me/+254784130692)**
 <h2>OR</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
