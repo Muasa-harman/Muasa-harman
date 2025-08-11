@@ -30,9 +30,9 @@ You can reach me on these platforms.
 <h2>OR</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/MuasaMuasa" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harman-muasa-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udo-innocent-charles" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
+<a href="https://x.com/MuasaMuasa" target="blank"><img align="right" src="https://raw.githubusercontent.com/Muasa-harman/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harman-muasa-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Muasa-harman/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udo-innocent-charles" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/Muasa-harman/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
 </p>
 
 <img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
