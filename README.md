@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently working with Nodejs,Nestjs,Typescript,Javascript,Reactjs,Nextjs, C#, .NET Core and Python**
 
-- 👨‍💻 All of my projects are available at [my blog application](https://myportfolioblogapp.onrender.com/)
+- 👨‍💻 All of my projects are available at [my blog application](https://harman-muasa-blog-next.vercel.app/)
 
-- 💬 Ask me about **Any topic in  C# and Python and Javascript**
+- 💬 Ask me about **Any topic in  C# && Python && Javascript && Typescript**
 
 ## 🌐: Contact
 
