@@ -22,7 +22,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently building **Travel & Mobility Systems (React Native + Next.js + NestJS + GraphQL + MongoDB)**  
+- 🔭 Currently building **Travel & Mobility Systems (React Native + Next.js + NestJS + GraphQL + MongoDB + Postgres)**  
 - 🌱 Exploring **Kubernetes | Cloud Architecture | Open-Source contributions**  
 - 👨‍💻 Portfolio: **[harman-muasa-blog-next.vercel.app](https://harman-muasa-blog-next.vercel.app)**
 - 💬 Ask me about **JavaScript, TypeScript, Python, C#, Next.js, NestJS, GraphQL**
