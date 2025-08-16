@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Travel & Mobility Systems (React Native + Next.js + NestJS + GraphQL)**  
 - 🌱 Exploring **Kubernetes | Cloud Architecture | Open-Source contributions**  
-- 💬 Ask me about **JavaScript, TypeScript, Next.js, NestJS, GraphQL, Docker**  
+- 💬 Ask me about **JavaScript, TypeScript,Python,C#, Next.js, NestJS, GraphQL, Docker**  
 - 🤝 Open to **collaborations & mentoring**  
 - ⚡ Fun fact: I believe code is best when shared — community > competition  
 
