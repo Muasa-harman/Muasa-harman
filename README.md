@@ -1,52 +1,52 @@
-# Hi...👋,call me Harman or Muasa.
+<!-- Typing animation -->
+<h1 align="center">Hi there 👋, I'm Muasa Harman Maluti</h1>
+<h3 align="center">Full-Stack Engineer | Mentor | Open-Source Contributor</h3>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Profile...❣;Software+Engineer;Full-Stack+Web+Developer;Tutor;Coding+Enthusiast)](https://git.io/typing-svg)
-
-
-<!-- ======= -->
-
-<!-- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer with over 4 years of expertise in JavaScript;TypeScript,Node.js,C# and Python;as well as experience with both relational and non-relational databases;Full-Stack+Web+Developer;Tutor;Tech+Enthusiast)](https://git.io/typing-svg) -->
-
-<!-- [![OOP badge]](https://github.com/Muasa-harman/Muasa-harman/blob/main/OOP%20badge%20Award.png)[![Algo_badge]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datamation.com%2Fbig-data%2Fdata-structure%2F&psig=AOvVaw3yiWuZOxVsdWQ3SMmVwupp&ust=1718437859902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiAsYbO2oYDFQAAAAAdAAAAABAE) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="center">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muasa-harman" alt="Muasa-harman" /></a> </p>
-
-- 🌱 I’m currently working with Nodejs,Nestjs,Typescript,Javascript,Reactjs,Nextjs, C#, .NET Core and Python**
-
-- 👨‍💻 All of my projects are available at [my blog application](https://harman-muasa-blog-next.vercel.app/)
-
-- 💬 Ask me about **Any topic in  C# && Python && Javascript && Typescript**
-
-## 🌐: Contact
-
-You can reach me on these platforms.
-
-<!-- [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord] -->
-
-- 📫 How to reach me **[Email](muasaharman196@gmail.com), [Whatsapp number](https://wa.me/+254784130692)**
-<h2>OR</h2>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/MuasaMuasa" target="blank"><img align="right" src="https://raw.githubusercontent.com/Muasa-harman/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harman-muasa-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Muasa-harman/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udo-innocent-charles" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/Muasa-harman/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saxinnocent" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/sponsors/Muasa-harman"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=for-the-badge&logo=githubsponsors" alt="Sponsor badge"/></a>
+  <a href="https://www.linkedin.com/in/muasa-harman/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Muasa-harman&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<img alt="writing codes" width='1300' height='500' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
-<br clear='all'/>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a align="left"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
+## 👨‍💻 About Me
+- 🔭 Currently working on **Travel & Mobility Systems (React Native + Next.js + NestJS + GraphQL)**  
+- 🌱 Exploring **Kubernetes | Cloud Architecture | Open-Source contributions**  
+- 💬 Ask me about **JavaScript, TypeScript, Next.js, NestJS, GraphQL, Docker**  
+- 🤝 Open to **collaborations & mentoring**  
+- ⚡ Fun fact: I believe code is best when shared — community > competition  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muasa-harman&show_icons=true&locale=en&layout=compact" alt="Muasa-harman" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muasa-harman&show_icons=true&locale=en" alt="Muasa-harman" /></p>
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,graphql,prisma,mongodb,postgres,docker,git,linux,python&perline=8" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muasa-harman&" alt="Muasa-harman" /></p>
+---
+
+## 📌 Featured Projects
+- 🚖 **Safaris Services** — Multi-service ride & safari booking platform  
+- 🌍 **Custom Location API** — Designed for precise mapping of local areas  
+- 🔐 **OIDC Auth Integration** — Secure login with Keycloak + Django GraphQL  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muasa-harman&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muasa-harman&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## 🤝 Support
+If you like my work and want to support future contributions, consider sponsoring me:  
+
+👉 [**Sponsor Me on GitHub**](https://github.com/sponsors/Muasa-harman)  
+
+---
+
+<p align="center">✨ Building in public. Learning. Sharing. Growing. ✨</p>
+
