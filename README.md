@@ -66,4 +66,4 @@ If you find my projects valuable, consider supporting future development:
 👉 [**Sponsor Me on GitHub**](https://github.com/sponsors/Muasa-harman)  
 👉 **BTC Address**: `1A2b3C4d5E6f7G8h9I0jKlMnOpQrStUvWxYz`
 
-<img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" width="100%" alt="coding animation">
+<img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" width="50%" alt="coding animation">
