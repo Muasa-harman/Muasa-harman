@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+👋,+I'm+Muasa+Harman+Maluti;Full-Stack+Engineer;Mentor;Open-Source+Contributor;Software+Engineer;Tutor;Coding+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+👋,+I'm+Muasa+Harman+Maluti;Full-Stack+Engineer;Mentor;Open-Source+Contributor;Software+Engineer;Tutor;Coding+Enthusiast" alt="Typing SVG" (https://git.io/typing-svg/>
 </h1>
 
 <h3 align="center">Building solutions with JavaScript, TypeScript, Python & C#</h3>
